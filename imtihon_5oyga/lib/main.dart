@@ -530,6 +530,7 @@
 //     );
 //   }
 // }
+
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -553,8 +554,7 @@ class _Sahifa1State extends State<Sahifa1> {
       rangi: "color: bllack",
       razmer: "size: 41",
       narxi: "  1.000\$",
-      rasm:
-          "https://i.pinimg.com/736x/f7/e4/6e/f7e46ed79c0801a3856412e2b4e63718.jpg",
+      rasm: "image/nike7.png",
       about:
           "Nike, Inc.[note 1] (stylized as NIKE) is an American athletic footwear and apparel corporation headquartered near Beaverton, Oregon, United States.[6] It is the world's largest supplier of athletic shoes and apparel and a major manufacturer of sports equipment, with revenue in excess of US\$46 billion in its fiscal year 2022.",
     ),
@@ -563,8 +563,7 @@ class _Sahifa1State extends State<Sahifa1> {
       rangi: "color: red",
       razmer: "size: 42",
       narxi: "  2.000\$",
-      rasm:
-          "https://i.pinimg.com/736x/c3/c1/c0/c3c1c03729d4dee2ba135892c012111d.jpg",
+      rasm: "image/nike7.png",
       about:
           "Nike Air Ship is a basketball shoe released by Nike in 1984. The shoe is notable for being the first sneaker to ever be worn by Michael Jordan as part of his contract with Nike.[1] The shoe has since been re-introduced by Nike as part of the Air Jordan line as the Jordan Air Ship.",
     ),
@@ -573,18 +572,16 @@ class _Sahifa1State extends State<Sahifa1> {
       rangi: "color: blue",
       razmer: "size: 44",
       narxi: "  4.000\$",
-      rasm:
-          "https://i.pinimg.com/736x/8a/21/fc/8a21fc73adc451fc99e9d597eae10340.jpg",
+      rasm: "image/nike7.png",
       about:
           "Nike Air Force is a range of athletic shoes made by Nike. It was created by designer Bruce Kilgore[1] and was the first basketball shoe to use Nike's 'Air' technology. The shoe is offered in low-, mid- and high-top styles.",
     ),
     A(
       nom: "brand: Nike Air Max",
-      rangi: "color: pink",
+      rangi: "color: blue",
       razmer: "size: 45",
       narxi: "  15.000\$",
-      rasm:
-          "https://i.pinimg.com/564x/88/22/0d/88220d12557ecfd9e4b76cc52db9e26e.jpg",
+      rasm: "image/nike7.png",
       about:
           "Nike Air Max is a line of shoes produced by Nike, Inc., with the first model released in 1987. Air Max shoes are identified by their midsoles incorporating flexible urethane pouches filled with pressurized gas, visible from the exterior of the shoe and intended to provide cushioning to the underfoot. Air Max was conceptualized by Tinker Hatfield, who initially worked for Nike designing stores.",
     ),
@@ -593,8 +590,7 @@ class _Sahifa1State extends State<Sahifa1> {
       rangi: "color: pink",
       razmer: "size: 45",
       narxi: "  5.000\$",
-      rasm:
-          "https://i.pinimg.com/564x/31/76/93/31769326950dc226e891d2ce0dfa3b5e.jpg",
+      rasm: "image/nike7.png",
       about:
           "Nike Air Tailwind is a line of running shoes produced by Nike, Inc.. The shoe is notable for being the first shoe to implement Nike's air technology in the sole. The technology would go on to become a pivotal part of the company's identity not only in the quality of its shoes but also in the design and style of its products.",
     ),
@@ -603,8 +599,7 @@ class _Sahifa1State extends State<Sahifa1> {
       rangi: "color: pink",
       razmer: "size: 45",
       narxi: "  12.000\$",
-      rasm:
-          "https://i.pinimg.com/736x/a1/65/12/a16512d2772da1d81669b0484ac1c516.jpg",
+      rasm: "image/nike7.png",
       about:
           "The Nike Air Yeezy is an official sneakers collaboration project between Nike and Kanye West, launched in 2009. Notable as the shoe brand's first non-athlete full collaboration, the project has released two editions: the 'Air Yeezy' (2009) and the 'Air Yeezy II' (2012 and 2014).",
     ),
@@ -613,8 +608,7 @@ class _Sahifa1State extends State<Sahifa1> {
       rangi: "color: pink",
       razmer: "size: 45",
       narxi: "  13.000\$",
-      rasm:
-          "https://i.pinimg.com/736x/ba/dd/82/badd82c3e216ea14d3b6bdfbf1df1f51.jpg",
+      rasm: "image/nike7.png",
       about:
           "The Beaverton, Oregon-based brand brandd the design “Blazer” after its regional NBA team, the Portland Trail Blazers.[1] The original shoe was made out of three main components: the upper portion was made of leather, the tongue was made of nylon, and the midsole was made of rubber.",
     ),
@@ -623,8 +617,7 @@ class _Sahifa1State extends State<Sahifa1> {
       rangi: "color: pink",
       razmer: "size: 45",
       narxi: "  10.000\$",
-      rasm:
-          "https://i.pinimg.com/564x/c1/90/b0/c190b0e75df683fe2d8e4939917ef644.jpg",
+      rasm: "image/nike7.png",
       about:
           "Nike Dunk is a line of shoes released by Nike in 1985. Originally released as a basketball shoe, the popularity of the shoe among the skating community also led to the creation of a variant used for skateboarding. The shoe is offered in low-, mid- and high-top styles.",
     ),
@@ -633,8 +626,7 @@ class _Sahifa1State extends State<Sahifa1> {
       rangi: "color: pink",
       razmer: "size: 45",
       narxi: "  9.000\$",
-      rasm:
-          "https://i.pinimg.com/564x/f4/b6/16/f4b61600153241ab4eeaf20e40fedc89.jpg",
+      rasm: "image/nike7.png",
       about:
           "Nike Free is a minimalist running shoe. It was introduced in 2005 after Nike representatives observed Nike sponsored track athletes training barefoot.",
     ),
@@ -643,8 +635,7 @@ class _Sahifa1State extends State<Sahifa1> {
       rangi: "color: pink",
       razmer: "size: 45",
       narxi: "  7.000\$",
-      rasm:
-          "https://i.pinimg.com/564x/7d/48/37/7d4837352a03805f14822071f5ccca7c.jpg",
+      rasm: "image/nike7.png",
       about:
           "Nike Grind is Nike's collection of recycled materials that is composed of pre-consumer manufacturing scraps, recycled post-consumer shoes from the Reuse-A-Shoe program, and unsellable footwear. The purpose of Nike Grind is to eliminate waste in line with the tenets of sustainable fashion practices and close the loop on Nike's product lifecycle. Materials recycled include rubber, foam, fiber, leather and textile blends, which are separated and ground into granules",
     ),
@@ -653,8 +644,7 @@ class _Sahifa1State extends State<Sahifa1> {
       rangi: "color: pink",
       razmer: "size: 45",
       narxi: "  8.000\$",
-      rasm:
-          "https://i.pinimg.com/564x/8a/d8/bc/8ad8bcbce630523d94edef5ce4b9ede1.jpg",
+      rasm: "image/nike7.png",
       about:
           "The Nike Ordem is a brand of association footballs designed by Nike.[1] The ball consists of 12 panel in a three-layer casing system,[2] with traditional hexagonal and pentagonal patch patterns, similarly to Adidas' classic 1970 Telstar design.",
     ),
@@ -663,8 +653,7 @@ class _Sahifa1State extends State<Sahifa1> {
       rangi: "color: pink",
       razmer: "size: 45",
       narxi: "  20.00\$",
-      rasm:
-          "https://i.pinimg.com/564x/50/39/61/503961be5274336920bc4ead6c60b093.jpg",
+      rasm: "image/nike7.png",
       about:
           "Nike Shox is a support system feature in several of Nike's flagship sneakers, first released in 2000. Th,e design is an arrangement of primarily polyurethane hollow columns in the midsole supporting the shoe's heel. Most models include four circular columns in a square formation to provide stability. Later variations sometimes added additional columns, or changed to triangular or rectangular formations.",
     ),
@@ -673,8 +662,7 @@ class _Sahifa1State extends State<Sahifa1> {
       rangi: "color: pink",
       razmer: "size: 45",
       narxi: "  2.000\$",
-      rasm:
-          "https://i.pinimg.com/564x/b0/72/b6/b072b67e5756473d8de9f5a72d81a6af.jpg",
+      rasm: "image/nike7.png",
       about:
           "Nike Skateboarding, primarily known as Nike SB, is the Nike brand for its line of shoes, clothing, and equipment for skateboarding. Nike Skateboarding won the 2020 Webby People’s Voice Award for Best Home/Welcome Page in the category Web.",
     ),
@@ -683,8 +671,7 @@ class _Sahifa1State extends State<Sahifa1> {
       rangi: "color: pink",
       razmer: "size: 45",
       narxi: "  6.000\$",
-      rasm:
-          "https://i.pinimg.com/564x/fc/4d/31/fc4d3136f2c7f0ae964b023d78a5b17f.jpg",
+      rasm: "image/nike7.png",
       about:
           "The Nike Terminator is distinguished by the word 'Nike' written in large letters across the heel of the shoe. The Terminator also has a lace loop on the heel to facilitate wrapping the laces around the shoe.",
     ),
@@ -769,7 +756,7 @@ class _Sahifa1State extends State<Sahifa1> {
                     decoration: BoxDecoration(
                       image: DecorationImage(
                         image: AssetImage(
-                          "image/nike1.png",
+                          "image/nak.png",
                         ),
                         fit: BoxFit.fitHeight,
                       ),
@@ -807,7 +794,7 @@ class _Sahifa1State extends State<Sahifa1> {
                       // color: Colors.amber,
                       image: DecorationImage(
                         image: AssetImage(
-                          "image/nike3.png",
+                          "image/nayk.png",
                         ),
                         fit: BoxFit.fitHeight,
                       ),
@@ -966,16 +953,58 @@ class _Sahifa1State extends State<Sahifa1> {
               child: Padding(
                 padding: const EdgeInsets.all(8.0),
                 child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
+                  crossAxisAlignment: CrossAxisAlignment.center,
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    Image.asset(item.rasm ?? "", height: 90, width: 180),
-                    Text(item.nom ?? "",
-                        style: TextStyle(
-                            fontSize: 20, fontWeight: FontWeight.bold)),
-                    Text(item.rangi ?? "", style: TextStyle(fontSize: 18)),
-                    Text(item.razmer ?? "", style: TextStyle(fontSize: 18)),
-                    Text(item.narxi ?? "", style: TextStyle(fontSize: 18)),
+                    Container(
+                      height: 110,
+                      width: 150,
+                      decoration: BoxDecoration(
+                        image: DecorationImage(
+                          image: AssetImage(
+                            item.rasm ?? "",
+                          ),
+                          fit: BoxFit.cover,
+                        ),
+                      ),
+                    ),
+                    Row(
+                      children: [
+                        Text(item.nom ?? "",
+                            style: TextStyle(
+                                fontSize: 20, fontWeight: FontWeight.bold)),
+                      ],
+                    ),
+                    Row(
+                      children: [
+                        Text(
+                          item.rangi ?? "",
+                          style: TextStyle(
+                            fontSize: 18,
+                          ),
+                        ),
+                      ],
+                    ),
+                    Row(
+                      children: [
+                        Text(
+                          item.razmer ?? "",
+                          style: TextStyle(
+                            fontSize: 18,
+                          ),
+                        ),
+                      ],
+                    ),
+                    Row(
+                      children: [
+                        Text(
+                          item.narxi ?? "",
+                          style: TextStyle(
+                            fontSize: 18,
+                          ),
+                        ),
+                      ],
+                    ),
                   ],
                 ),
               ),
@@ -994,7 +1023,14 @@ class A {
   String? razmer;
   String? about;
   String? rasm;
-  A({this.nom, this.rangi, this.narxi, this.razmer, this.about, this.rasm});
+  A({
+    this.nom,
+    this.rangi,
+    this.narxi,
+    this.razmer,
+    this.about,
+    this.rasm,
+  });
 }
 
 class Sahifa2 extends StatelessWidget {
@@ -1100,7 +1136,7 @@ class Sahifa2 extends StatelessWidget {
                 children: [
                   TextButton(
                     onPressed: () {
-                      Navigator.pop(context);
+                      Navigator.of(context).pop();
                     },
                     child: Text(
                       "Back",
@@ -1121,6 +1157,8 @@ class Sahifa2 extends StatelessWidget {
                           ),
                         );
                       } else {
+                        Navigator.of(context)
+                            .pop(); // Close dialog before showing snackbar
                         ScaffoldMessenger.of(context).showSnackBar(
                           SnackBar(content: Text("Ma'lumotni to'ldiring")),
                         );
@@ -1160,6 +1198,14 @@ class Sahifa2 extends StatelessWidget {
         _surnameController.text.isNotEmpty &&
         _cardNumberController.text.isNotEmpty;
   }
+
+  @override
+  void dispose() {
+    _nameController.dispose();
+    _surnameController.dispose();
+    _cardNumberController.dispose();
+    // super.dispose();
+  }
 }
 
 class Sahifa3 extends StatelessWidget {
@@ -1182,15 +1228,13 @@ class Sahifa3 extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
           Padding(
-            padding: const EdgeInsets.all(20,),
+            padding: const EdgeInsets.all(20),
             child: Container(
               height: 350,
               width: 450,
               decoration: BoxDecoration(
                 color: Colors.blue,
-                borderRadius: BorderRadius.circular(
-                  15,
-                ),
+                borderRadius: BorderRadius.circular(15),
               ),
               child: Center(
                 child: Padding(
@@ -1286,6 +1330,297 @@ class Sahifa3 extends StatelessWidget {
     );
   }
 }
+
+
+// class Sahifa2 extends StatelessWidget {
+//   final A item;
+//   Sahifa2({required this.item});
+
+//   // Controllers to capture user input
+//   final TextEditingController _nameController = TextEditingController();
+//   final TextEditingController _surnameController = TextEditingController();
+//   final TextEditingController _cardNumberController = TextEditingController();
+
+//   @override
+//   Widget build(BuildContext context) {
+//     return Scaffold(
+//       appBar: AppBar(
+//         title: Row(
+//           children: [
+//             SizedBox(width: 100),
+//             Text(
+//               item.nom ?? "",
+//               style: TextStyle(
+//                 fontSize: 25,
+//                 fontWeight: FontWeight.w900,
+//               ),
+//             ),
+//           ],
+//         ),
+//       ),
+//       body: Padding(
+//         padding: const EdgeInsets.all(16.0),
+//         child: Column(
+//           crossAxisAlignment: CrossAxisAlignment.start,
+//           children: [
+//             Image.asset(item.rasm ?? "",
+//                 height: 230, width: double.infinity, fit: BoxFit.contain),
+//             SizedBox(height: 10),
+//             Text(
+//               item.rangi ?? "",
+//               style: TextStyle(fontSize: 25, fontWeight: FontWeight.w900),
+//             ),
+//             Text(
+//               item.razmer ?? "",
+//               style: TextStyle(fontSize: 25, fontWeight: FontWeight.w900),
+//             ),
+//             Text(
+//               "Price: ${item.narxi}",
+//               style: TextStyle(fontSize: 25, fontWeight: FontWeight.w900),
+//             ),
+//             Text(
+//               item.about ?? "",
+//               style: GoogleFonts.dancingScript(fontSize: 20),
+//             ),
+//             SizedBox(height: 30),
+//             Center(
+//               child: GestureDetector(
+//                 onTap: () {
+//                   _showInputDialog(context);
+//                 },
+//                 child: Container(
+//                   height: 50,
+//                   width: 300,
+//                   decoration: BoxDecoration(
+//                     color: Colors.black,
+//                     borderRadius: BorderRadius.circular(50),
+//                   ),
+//                   child: Center(
+//                     child: Text(
+//                       "Add to Card",
+//                       style: TextStyle(fontSize: 25, color: Colors.white),
+//                     ),
+//                   ),
+//                 ),
+//               ),
+//             ),
+//           ],
+//         ),
+//       ),
+//     );
+//   }
+
+//   void _showInputDialog(BuildContext context) {
+//     showDialog(
+//       context: context,
+//       builder: (BuildContext context) => AlertDialog(
+//         content: Container(
+//           height: 350,
+//           width: 300,
+//           child: Column(
+//             mainAxisAlignment: MainAxisAlignment.center,
+//             crossAxisAlignment: CrossAxisAlignment.center,
+//             children: [
+//               Center(
+//                 child: Text(
+//                   "Kartani kirgizing",
+//                   style: TextStyle(fontSize: 25),
+//                 ),
+//               ),
+//               _buildTextField("Ism", _nameController),
+//               _buildTextField("Familiya", _surnameController),
+//               _buildTextField("Karta raqam", _cardNumberController),
+//               Row(
+//                 mainAxisAlignment: MainAxisAlignment.spaceAround,
+//                 children: [
+//                   TextButton(
+//                     onPressed: () {
+//                       Navigator.pop(context);
+//                     },
+//                     child: Text(
+//                       "Back",
+//                       style: TextStyle(fontSize: 25),
+//                     ),
+//                   ),
+//                   TextButton(
+//                     onPressed: () {
+//                       if (_validateInput()) {
+//                         Navigator.push(
+//                           context,
+//                           MaterialPageRoute(
+//                             builder: (context) => Sahifa3(
+//                               name: _nameController.text,
+//                               surname: _surnameController.text,
+//                               cardNumber: _cardNumberController.text,
+//                             ),
+//                           ),
+//                         );
+//                       } else {
+//                         ScaffoldMessenger.of(context).showSnackBar(
+//                           SnackBar(content: Text("Ma'lumotni to'ldiring")),
+//                         );
+//                       }
+//                     },
+//                     child: Text(
+//                       "Yes",
+//                       style: TextStyle(fontSize: 25),
+//                     ),
+//                   ),
+//                 ],
+//               ),
+//             ],
+//           ),
+//         ),
+//       ),
+//     );
+//   }
+
+//   Widget _buildTextField(String label, TextEditingController controller) {
+//     return Padding(
+//       padding: const EdgeInsets.all(10),
+//       child: TextField(
+//         controller: controller,
+//         decoration: InputDecoration(
+//           labelText: label,
+//           border: OutlineInputBorder(
+//             borderRadius: BorderRadius.circular(20),
+//           ),
+//         ),
+//       ),
+//     );
+//   }
+
+//   bool _validateInput() {
+//     return _nameController.text.isNotEmpty &&
+//         _surnameController.text.isNotEmpty &&
+//         _cardNumberController.text.isNotEmpty;
+//   }
+// }
+
+// class Sahifa3 extends StatelessWidget {
+//   final String name;
+//   final String surname;
+//   final String cardNumber;
+
+//   const Sahifa3({
+//     Key? key,
+//     required this.name,
+//     required this.surname,
+//     required this.cardNumber,
+//   }) : super(key: key);
+
+//   @override
+//   Widget build(BuildContext context) {
+//     return Scaffold(
+//       body: Column(
+//         mainAxisAlignment: MainAxisAlignment.center,
+//         crossAxisAlignment: CrossAxisAlignment.center,
+//         children: [
+//           Padding(
+//             padding: const EdgeInsets.all(20,),
+//             child: Container(
+//               height: 350,
+//               width: 450,
+//               decoration: BoxDecoration(
+//                 color: Colors.blue,
+//                 borderRadius: BorderRadius.circular(
+//                   15,
+//                 ),
+//               ),
+//               child: Center(
+//                 child: Padding(
+//                   padding: const EdgeInsets.all(16.0),
+//                   child: Center(
+//                     child: Column(
+//                       crossAxisAlignment: CrossAxisAlignment.start,
+//                       mainAxisAlignment: MainAxisAlignment.center,
+//                       children: [
+//                         Row(
+//                           mainAxisAlignment: MainAxisAlignment.end,
+//                           children: [
+//                             Text(
+//                               "UZCARD",
+//                               style: TextStyle(
+//                                 fontSize: 40,
+//                                 fontWeight: FontWeight.w900,
+//                                 color: Colors.white,
+//                               ),
+//                             ),
+//                           ],
+//                         ),
+//                         Text(
+//                           "  Card number:",
+//                           style: TextStyle(
+//                             fontSize: 25,
+//                             fontWeight: FontWeight.w900,
+//                           ),
+//                         ),
+//                         Text(
+//                           "$cardNumber",
+//                           style: TextStyle(
+//                             fontSize: 20,
+//                             color: Colors.white,
+//                           ),
+//                         ),
+//                         SizedBox(height: 10),
+//                         Text(
+//                           "  Name:",
+//                           style: TextStyle(
+//                             fontSize: 25,
+//                             fontWeight: FontWeight.w900,
+//                           ),
+//                         ),
+//                         Row(
+//                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
+//                           children: [
+//                             Text(
+//                               "$name",
+//                               style: TextStyle(
+//                                 fontSize: 20,
+//                                 color: Colors.white,
+//                               ),
+//                             ),
+//                             Text(
+//                               "CVV  ",
+//                               style: TextStyle(
+//                                 fontSize: 25,
+//                                 fontWeight: FontWeight.w900,
+//                               ),
+//                             )
+//                           ],
+//                         ),
+//                         SizedBox(height: 10),
+//                         Text(
+//                           "  Surname:",
+//                           style: TextStyle(
+//                             fontSize: 25,
+//                             fontWeight: FontWeight.w900,
+//                           ),
+//                         ),
+//                         Row(
+//                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
+//                           children: [
+//                             Text(
+//                               "$surname",
+//                               style: TextStyle(
+//                                 fontSize: 20,
+//                                 color: Colors.white,
+//                               ),
+//                             ),
+//                           ],
+//                         ),
+//                       ],
+//                     ),
+//                   ),
+//                 ),
+//               ),
+//             ),
+//           ),
+//         ],
+//       ),
+//     );
+//   }
+// }
 
 // class Sahifa2 extends StatelessWidget {
 //   final A item;
@@ -1496,3 +1831,4 @@ class Sahifa3 extends StatelessWidget {
 //     );
 //   }
 // }
+// 
